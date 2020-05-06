@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  PerformanceDispatchQueueSync
+//  WrappedSynchronizationPerformance
 //
 //  Created by Andrew Benson on 5/3/20.
 //  Copyright © 2020 Nuclear Cyborg Corp. All rights reserved.
@@ -10,8 +10,6 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
